@@ -63,6 +63,6 @@ This analysis helps supermarket management to:
 ---
 
 ## 👤 Author
-- **Saumyasuteshnu Behera**  
-- Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Machine Learning | Advanced Excel
+**Saumyasuteshnu Behera**  
+Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Machine Learning | Advanced Excel
 
