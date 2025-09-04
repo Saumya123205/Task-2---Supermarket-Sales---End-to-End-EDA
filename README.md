@@ -1,5 +1,5 @@
 # 🛒 Supermarket Sales Analysis & Insights (EDA Project)
-<img width="350" height="500" alt="Infographic image" src="https://github.com/user-attachments/assets/c65c6a0f-30c4-4544-a59e-3b9b671e6517" />
+<img width="250" height="350" alt="Infographic image" src="https://github.com/user-attachments/assets/c65c6a0f-30c4-4544-a59e-3b9b671e6517" />
 
 
 
